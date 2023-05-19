@@ -2,11 +2,6 @@
 
 # Hi there, I'm @djdefi 👋
 
-## I'm a Staff Support Engineer at GitHub.
-
-
-### A little more about me...
-
 ```json
 {
   "name": "djdefi",
@@ -44,6 +39,6 @@
 }
 ```
 
-### 📈 My GitHub Stats:
+## 📈 My GitHub Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=djdefi&show_icons=true&theme=radical)
