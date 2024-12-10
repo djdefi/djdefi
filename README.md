@@ -3,7 +3,7 @@
 ```json
 {
   "name": "djdefi",
-  "role": "Staff Support Engineer at GitHub",
+  "role": "Senior Softwaret Engineer at GitHub",
   "codingLanguages": ["Bash", "Ruby", "Go"],
   "technologies": {
     "versionControl": ["Git", "GitHub"],
@@ -14,7 +14,7 @@
       "ownProjects": ["gitavscan", "rss-firehose"]
     }
   },
-  "currentFocus": "Improving Support Delivery and Product collaboration at GitHub",
+  "currentFocus": "Improving GHES reliability, Support Delivery and Product collaboration at GitHub",
   "hobbies": ["Music", "Battlesnake", "Camping"],
   "humanUserGuide": {
     "communication": {
