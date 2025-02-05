@@ -3,7 +3,7 @@
 ```json
 {
   "name": "djdefi",
-  "role": "Senior Softwaret Engineer at GitHub",
+  "role": "Senior Software Engineer at GitHub",
   "codingLanguages": ["Bash", "Ruby", "Go"],
   "technologies": {
     "versionControl": ["Git", "GitHub"],
