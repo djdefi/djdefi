@@ -1,4 +1,8 @@
+# Hi there, I'm DJ! 👋
+
 ![defibanner](https://user-images.githubusercontent.com/3662109/109398849-226f3980-78f4-11eb-972e-5c921a6fc663.jpeg)
+
+## About Me
 
 ```json
 {
@@ -23,7 +27,7 @@
       "expectedResponseTime": "I usually respond within 24 hours during weekdays, usually much quicker!"
     },
     "workStyle": {
-      "bestTimesForDeepWork": "I'm not really a morning person, by midday i'm through the morning notifications and ready to focus and hack on things",
+      "bestTimesForDeepWork": "I'm not really a morning person, by midday I'm through the morning notifications and ready to focus and hack on things",
       "collaborationStyle": "Fan of https://nohello.net/en/ & https://xyproblem.info/ -- I value clear and respectful communication. I appreciate when we can share differing opinions and reach consensus",
       "howILearn": "I learn best by doing and appreciate when I can break something myself and try to fix it, and learn from a mentor or pair with someone"
     },
