@@ -39,4 +39,5 @@
 
 ## 📈 My GitHub Stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=djdefi&show_icons=true&theme=radical)
+![Github stats](https://github-stats.omsimos.com/api?username=djdefi&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=djdefi&theme=radical)
